@@ -1,48 +1,36 @@
-# Privacy Policy for Sincey
+# Privacy Policy for Readmark for Safari
 
-Effective date: May 27, 2026
+Effective date: April 16, 2026
 
-Sincey helps you keep track of the last time you did personal activities, save notes about those moments, and optionally receive reminders.
+Readmark for Safari is designed to process markdown content locally on your device.
 
 ## Data Collection
 
-Sincey does not collect, sell, share, or track personal data.
+Readmark does not collect, sell, or share personal data.
 
-Sincey does not use analytics SDKs, advertising SDKs, third-party trackers, or developer-operated servers.
+Readmark does not use analytics, advertising SDKs, or user tracking by default.
 
-## Information You Add to the App
+## How the App Works
 
-Sincey stores the activity names, dates, notes, colors, icons, reminder settings, and history entries that you choose to create in the app.
+When you open markdown content in Safari, Readmark formats that content for readability directly in your browser session.
 
-This information is used only to provide the app's core features, such as showing how many days it has been since an activity, displaying your memory trail, syncing your data, and scheduling reminders.
+Markdown page content is not sent to external servers by Readmark.
 
-## Local Storage and iCloud Sync
+## Local Storage
 
-Sincey stores your data on your device using Apple's local app storage.
+Readmark stores only user interface preferences, such as:
 
-If iCloud is enabled for your device and account, Sincey may sync your app data using Apple's private CloudKit database for your iCloud account. This allows your Sincey data to stay available across your Apple devices signed in to the same Apple Account.
+- Theme selection
+- Font scale
+- Reading width
+- Display toggles
 
-The developer does not operate a separate server for Sincey data and does not access your private iCloud data.
+These settings are stored in browser extension storage on your device.
 
-## Notifications
+## Third-Party Content
 
-If you enable reminders, Sincey may ask for permission to send notifications. Reminder notifications are scheduled through Apple's notification system and are used only to remind you about activities you choose.
-
-You can manage notification permissions at any time in the Settings app.
-
-## On-Device Intelligence
-
-When supported by your device and system version, Sincey may use Apple's on-device intelligence to suggest friendly wording, icons, colors, and reminder intervals for activity names you enter.
-
-This processing is designed to happen on device through Apple's system features. Sincey does not send your activity names to developer-operated servers for this feature.
-
-## Children's Privacy
-
-Sincey is not designed to knowingly collect personal information from children.
-
-## Changes to This Policy
-
-This privacy policy may be updated from time to time. Any changes will be posted in this repository.
+Readmark can format markdown from third-party websites that users choose to visit in Safari.
+Readmark does not claim ownership of third-party content.
 
 ## Contact
 
