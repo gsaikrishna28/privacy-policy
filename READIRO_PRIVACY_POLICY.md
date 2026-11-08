@@ -1,6 +1,12 @@
-# Privacy Policy for Readiro
+# Readiro — Privacy Policy & Support
 
 Effective date: November 7, 2026
+
+[App support](#app-support) · [Privacy policy](#privacy-policy)
+
+Need help? Email [gsaikrishna28@gmail.com](mailto:gsaikrishna28@gmail.com), or see the app support section below.
+
+## Privacy policy
 
 Readiro is a learning app with short lessons and a previous library of optional interactive practice stories. This policy explains what the app stores, what it sends to other services, and how to contact us. Readiro does not require an account or a date of birth.
 
@@ -31,3 +37,33 @@ This policy is hosted on GitHub. If you open the public policy page from Readiro
 ## Changes and contact
 
 We will update this page and its effective date if our practices change. For privacy questions or requests, contact [gsaikrishna28@gmail.com](mailto:gsaikrishna28@gmail.com).
+
+## App support
+
+### Contact
+
+[gsaikrishna28@gmail.com](mailto:gsaikrishna28@gmail.com)
+
+Include your app version (Settings → About Readiro & help), device model, iOS version, and a short explanation of what happened. Avoid sending payment details, a child's personal information or private reflections. If attaching screenshots, remove personal information first. Parents or guardians should contact support on behalf of younger learners.
+
+### Restore lifetime access
+
+Open Settings → Lifetime Unlock & Restore → Restore Purchases. Use the Apple Account associated with the eligible purchase and an internet connection. Younger learners will see an adult-directed gate first. A pending purchase may still need approval. Apple manages refunds and payment disputes.
+
+### Lessons and saved ideas
+
+Learn offers your next unread lesson. Tap Finish lesson to mark it read, and the bookmark icon to save or remove it independently. All lessons lets you read in any order or revisit a lesson. The first three lessons are free; the remaining thirteen require the one-time Lifetime Unlock. There is no daily reset or subscription. An unfinished lesson is offered again after relaunch, from its beginning rather than its previous scroll position.
+
+Saved holds bookmarked lessons and any takeaways saved from the original practice stories. Your progress stays on this device. Deleting the app removes local progress; purchase restoration does not restore it.
+
+### Previous practice library
+
+Open Learn → Settings → Previous practice library → Open previous library, choose the practice age range and tap Browse practice stories. The history icon opens previous practice progress. Replaying explores alternate decisions without increasing completed-story counts. Each age path has three free introductions; premium inventory and existing lifetime purchases are unchanged. The 8–12, 13–17 and 25+ paths include eight premium stories; the 18–24 path includes thirteen. Existing learners may retain previously started Life/Career introductions under the earlier access policy.
+
+### Offline use
+
+Bundled lessons and stories work offline. Price loading, purchasing, and restoration can require a network connection. Access depends on the entitlement information available through StoreKit; contact support if eligible access does not appear after restoration.
+
+### Accessibility
+
+Readiro follows device text size and appearance settings. Decisions are untimed. Please report accessibility barriers with the relevant screen and assistive technology; do not send personal learner information.
